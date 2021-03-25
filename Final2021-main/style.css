@@ -40,3 +40,7 @@ header .btn{
   display: flex;
   height: 100px;
 }
+
+footer li{
+  list-style: none;
+}
