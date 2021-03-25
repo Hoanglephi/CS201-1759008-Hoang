@@ -1,0 +1,42 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+img{
+  box-shadow: 5px 5px 5px grey;
+}
+
+header .btn{
+  border-radius: 50%;
+}
+
+.banner{
+  text-align: center;
+  color: white;
+}
+
+.product{
+  display: flex;
+  align-items: center;
+}
+
+.productinfo{
+  text-align: center;
+  color: white;
+}
+
+.infos{
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+
+.post{
+  display: flex;
+  height: 100px;
+}
